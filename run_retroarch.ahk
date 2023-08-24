@@ -1,5 +1,5 @@
 ; AutoHotKey Retroarch launcher script
-; Version 2.0
+; Version 5.0
 ; David Marti
 ;
 ; This script is for launching Retroarch with a specific core and also
